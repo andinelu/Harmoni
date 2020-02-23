@@ -1,12 +1,11 @@
-# Harmoni - team 7
+# Harmoni
 
-![logo picture Harmoni](https://gitlab.stud.idi.ntnu.no/williaj/harmoni-team-7/raw/master/application/client/src/components/menu/Logo_large.png)
+![logo picture Harmoni](https://github.com/andinelu/Harmoni/raw/master/application/client/src/components/menu/Logo_large.png)
 
 
 "Harmoni" is a web application for creating and organizing events. You can keep track of events, and performers, crew and documents that are tied to that event. 
 Harmoni is designed with both accessibility and universal design in mind. The web design is focused on simplicity at the same time as having the features you wish for as an event organizer. The website is currently only available in Norwegian. 
 
-<h2>[Go to our wiki](https://gitlab.stud.idi.ntnu.no/williaj/harmoni-team-7/-/wikis/home)</h2>
 
 ___
 <h2>Quick start installation guide</h2>
@@ -16,7 +15,7 @@ To run our system, run these commands in a command window with [git](https://git
 
 ```
 
-git clone https://gitlab.stud.idi.ntnu.no/williaj/harmoni-team-7.git
+git clone https://github.com/andinelu/Harmoni.git
 
 cd harmoni-team-7/application/server
  
